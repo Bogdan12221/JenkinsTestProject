@@ -1,3 +1,3 @@
-public class Test12345
+public class Test123456
 {
 }
