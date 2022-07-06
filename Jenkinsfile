@@ -1,10 +1,16 @@
 pipeline {
     agent any
+    
     stages {
-        stage('Build') {
+        stage('Ok') {
             steps {
-                bat 'set'
+                echo "Ok"
             }
+        }
+    }
+    post {
+        always {
+            emailext body: 'A Test EMail', recipientProviders: [[$class: 'DevelopersRecipientProvider'], [$class: 'RequesterRecipientProvider']], subject: 'Test'
         }
     }
 }
