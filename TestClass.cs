@@ -1,3 +1,3 @@
-public clas Test123456
-{
+publi clas Test123456
+
 }
