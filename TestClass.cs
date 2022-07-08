@@ -1,3 +1,3 @@
-public clas Test123456 
+public clas Test123456  
 {
 }
