@@ -1,0 +1,5 @@
+C:\Users\bogdan.lazarevic\JenkingTestProject\obj\Debug\net6.0\JenkingTestProject.csproj.AssemblyReference.cache
+C:\Users\bogdan.lazarevic\JenkingTestProject\obj\Debug\net6.0\JenkingTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogdan.lazarevic\JenkingTestProject\obj\Debug\net6.0\JenkingTestProject.AssemblyInfoInputs.cache
+C:\Users\bogdan.lazarevic\JenkingTestProject\obj\Debug\net6.0\JenkingTestProject.AssemblyInfo.cs
+C:\Users\bogdan.lazarevic\JenkingTestProject\obj\Debug\net6.0\JenkingTestProject.csproj.CoreCompileInputs.cache
