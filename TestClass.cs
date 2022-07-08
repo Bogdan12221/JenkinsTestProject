@@ -1,3 +1,3 @@
-public clasc Test123456
+public class Test123456
 {
 }
