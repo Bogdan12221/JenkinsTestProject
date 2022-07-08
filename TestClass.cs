@@ -1,3 +1,3 @@
-public clas Test12
+public class Test12
 {
 }
